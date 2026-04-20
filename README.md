@@ -68,7 +68,7 @@ Individual project repositories are expected to be added and linked here over ti
 | Repository | Focus Area | Status |
 |---|---|---|
 | [`P3-1-ai-app-threat-model`](https://github.com/kvatnynito/P3-1-ai-app-threat-model) | AI application threat modeling, trust boundaries, threats, and mitigations | Planned |
-| `P3-2-prompt-injection-and-ai-abuse-cases` | Prompt injection, data exposure attempts, and unsafe AI use cases | Planned |
+| [`P3-2-prompt-injection-and-ai-abuse-cases`](https://github.com/kvatnynito/P3-2-prompt-injection-and-ai-abuse-cases) | Prompt injection, data exposure attempts, and unsafe AI use cases | Planned |
 | `P3-3-secure-rag-review` | Secure design review of a retrieval-augmented generation (RAG) system | Planned |
 | `P3-4-ai-security-assessment-pack` | Reusable AI security assessment materials, checklists, and findings templates | Planned |
 
